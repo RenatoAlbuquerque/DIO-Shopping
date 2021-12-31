@@ -2,7 +2,7 @@
 
 # Restaurant Search
   <h2>Integração de um E-commerce desenvolvido em React consumindo uma API REST desenvolvida em Node.js</h2>
-  <h3><a href="#" target="_blank" rel="noreferrer">Acesse a Página Aqui</a></h3>
+  <h3><a href="https://dioshopping.netlify.app" target="_blank" rel="noreferrer">Acesse a Página Aqui</a></h3>
   <h3>Página principal de pesquisa</h3>
     <img alt="paginaWeb" width="800" height="400" src="https://github.com/RenatoAlbuquerque/DIO-Shopping/blob/main/img_readme/home.PNG?raw=true">
   <h3>Página de informações pós pesquisa</h3>
